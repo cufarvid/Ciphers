@@ -1,6 +1,6 @@
 /**
  * @param {string} string String to rotate
- * @param {int} n Number of rotations include numeric values
+ * @param {int} n Number of rotations
  * @param {boolean} numeric Include numeric values
  * @return {string} result String with rotations
  */
